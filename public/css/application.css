@@ -7,3 +7,26 @@
 th {
   text-align: left;
 }
+
+.header {
+  width: 80%;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+
+.header h1 {
+  font-size: 55px;
+  float: left;
+  margin: 0px;
+  vertical-align: middle;
+
+}
+
+.header img {
+  height: 90px;
+  width: auto;
+  float: left;
+  vertical-align: middle;
+  margin-left: 20px;
+}
